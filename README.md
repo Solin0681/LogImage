@@ -1,0 +1,2 @@
+# LogImage
+Save Typora Image
